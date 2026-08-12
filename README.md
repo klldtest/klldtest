@@ -19,7 +19,6 @@
 
 ```txt
 ▸ Backend developer focused on APIs, automation, and scalable systems
-▸ Building FiveM server resources and Discord bots
 ```
 
 ---
