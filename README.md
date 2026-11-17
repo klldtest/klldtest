@@ -7,7 +7,6 @@
 <p>
   <img src="https://img.shields.io/badge/Backend%20Developer-0D1117?style=flat-square&logo=server&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/Reverse%20Engineer-0D1117?style=flat-square&logo=hackthebox&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/FiveM%20Developer-0D1117?style=flat-square&logo=rockstargames&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/Discord%20Bot%20Dev-0D1117?style=flat-square&logo=discord&logoColor=58A6FF" />
 </p>
 
